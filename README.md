@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 #### 4. Machine Learning Courses
 ##### [Google Developers](https://developers.google.com/machine-learning)
-##### [coursera.org](https://www.coursera.org/specializations/machine-learning-introduction)
+##### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 ##### [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&feature=shared)
 ##### [Deep learning Specialization](https://www.coursera.org/specializations/deep-learning)
 ##### [Hugging face](https://huggingface.co/docs/transformers/en/community)
