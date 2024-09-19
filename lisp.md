@@ -9,4 +9,4 @@
 | [practical-common-lisp-online book](https://gigamonkeys.com/book/)                        | 
 | [Documentation](https://common-lisp.net/documentation)                                    |
 | [common-lisp-cookbook](https://lispcookbook.github.io/cl-cookbook/getting-started.html)   |
-| [learn-common-lisp]([https://cliki.net/](https://lisp-lang.org/learn/))                   |
+| [learn-common-lisp](https://lisp-lang.org/learn/)                                         |
